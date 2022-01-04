@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @tager181
+- 👀 I’m interested in C++ and Qt 
